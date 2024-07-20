@@ -25,4 +25,4 @@ Some languages use a combination of both techniques:
 ### Sources
 - [GeeksforGeeks: Difference between Compiled and Interpreted Language](https://www.geeksforgeeks.org/difference-between-compiled-and-interpreted-language/)
 - [Programiz: Compiled vs Interpreted Languages](https://www.programiz.com/article/compiled-vs-interpreted-languages)
-- [Computer Science Wiki: Compiled vs Interpreted Languages](https://computersciencewiki.org/index.php/Compiled_vs._Interpreted_languages
+- [Computer Science Wiki: Compiled vs Interpreted Languages](https://computersciencewiki.org/index.php/Compiled_vs._Interpreted_languages)
